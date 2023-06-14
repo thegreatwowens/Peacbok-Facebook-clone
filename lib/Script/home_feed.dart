@@ -117,6 +117,7 @@ class _HomeFeedState extends State<HomeFeed> {
                                             ..style = PaintingStyle.stroke
                                             ..strokeWidth = 1
                                             ..color = Colors.black87,
+                                          
                                           fontWeight: FontWeight.w700),
                                       textAlign: TextAlign.center,
                                     ),
